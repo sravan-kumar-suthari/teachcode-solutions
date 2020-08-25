@@ -1,14 +1,16 @@
 {
   "learningTrack": "JavaScript",
   "userName": "sravan kumar",
-  "taskCount": 2,
+  "taskCount": 3,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "5vsa19xw7nfpgfc9t5hitftvtdndlomkkhqs",
-    "sb6e5jwtdqewelfuecxmxjvkzlmzzyskjfi8"
+    "sb6e5jwtdqewelfuecxmxjvkzlmzzyskjfi8",
+    "tgapso7yusjlw6tbabgarsirer3md2sklk9b"
   ],
   "userSubmittedFiles": [
     "task1.js",
-    "task2.js"
+    "task2.js",
+    "task3.js"
   ]
 }
